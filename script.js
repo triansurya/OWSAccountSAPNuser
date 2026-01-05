@@ -195,6 +195,7 @@ const dataKaryawan = [
     { Nama: "Rahmatsyah", "KTP ID": "1871120603900006", "No. HP XL/Axis/Smartfren": "081937830494", Email: "rahmatsyah.ext@ypttglobal.com", "User Name OWS": "YPTT.Rahmatsyah", Password: "7paDA`c619;~", Batch: "5" },
     { Nama: "FX Sucipto", "KTP ID": "3308081509690005", "No. HP XL/Axis/Smartfren": "", Email: "fx.sucipto@ypttglobal.com", "User Name OWS": "YPTT.FX.Sucipto", Password: "2nvU'RX]bQ5!", Batch: "5" },
     { Nama: "SEPTEDI HENDRIKA", "KTP ID": "3204321209870013", "No. HP XL/Axis/Smartfren": "", Email: "septedi.hendrika@ypttglobal.com", "User Name OWS": "YPTT.SEPTEDI.HENDRIKA", Password: "Ypttcjxls_@123", Batch: "5" },
+    { Nama: "Utama Bagus Pratono", "KTP ID": "3174041105840014", "No. HP XL/Axis/Smartfren": "", Email: "utama.bagus.pratono.ext@ypttglobal.com", "User Name OWS": "YPTT.Utama.Bagus.Pratono", Password: "$a1E r0kJ^K%", Batch: "5" },
 ];
 
 function searchData() {
@@ -242,4 +243,5 @@ function searchData() {
                 Pastikan NIK yang Anda masukkan sudah benar (16 digit).
             </p>`;
     }
+
 }
