@@ -195,10 +195,6 @@ const dataKaryawan = [
     { Nama: "Rahmatsyah", "KTP ID": "1871120603900006", "No. HP XL/Axis/Smartfren": "081937830494", Email: "rahmatsyah.ext@ypttglobal.com", "User Name OWS": "YPTT.Rahmatsyah", Password: "7paDA`c619;~", Batch: "5" },
     { Nama: "FX Sucipto", "KTP ID": "3308081509690005", "No. HP XL/Axis/Smartfren": "", Email: "fx.sucipto@ypttglobal.com", "User Name OWS": "YPTT.FX.Sucipto", Password: "2nvU'RX]bQ5!", Batch: "5" },
     { Nama: "SEPTEDI HENDRIKA", "KTP ID": "3204321209870013", "No. HP XL/Axis/Smartfren": "", Email: "septedi.hendrika@ypttglobal.com", "User Name OWS": "YPTT.SEPTEDI.HENDRIKA", Password: "Ypttcjxls_@123", Batch: "5" },
-    { Nama: "Utama Bagus Pratono", "KTP ID": "3174041105840014", "No. HP XL/Axis/Smartfren": "", Email: "utama.bagus.pratono.ext@ypttglobal.com", "User Name OWS": "YPTT.Utama.Bagus.Pratono", Password: "$a1E r0kJ^K%", Batch: "5" },
-    { Nama: "Ali Hidayattulloh", "KTP ID": "3329091107000003", "No. HP XL/Axis/Smartfren": "", Email: "ali.hidayattulloh.ext@ypttglobal.com", "User Name OWS": "YPTT.Ali.Hidayattulloh", Password: "DkB!UN78+]:j", Batch: "5" },
-    { Nama: "Choerur Rizal Asy Syarif", "KTP ID": "3329091111970004", "No. HP XL/Axis/Smartfren": "", Email: "choerur.rizal.asy.syarif.ext@ypttglobal.com", "User Name OWS": "YPTT.Choerur.Rizal.AsySyarif", Password: "SO*2'mxIv.+6", Batch: "5" },
-    { Nama: "Sukmana", "KTP ID": "3204360404760011", "No. HP XL/Axis/Smartfren": "", Email: "sukmana.ext@ypttglobal.com", "User Name OWS": "YPTT.Sukmana", Password: "3W49}"gz%>G6", Batch: "5" },
 ];
 
 function searchData() {
@@ -246,6 +242,4 @@ function searchData() {
                 Pastikan NIK yang Anda masukkan sudah benar (16 digit).
             </p>`;
     }
-
 }
-
